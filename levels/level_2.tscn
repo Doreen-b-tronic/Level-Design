@@ -18,7 +18,7 @@
 win_by_reaching_flag = true
 
 [node name="Background" parent="." instance=ExtResource("2_5ot28")]
-tint = Color(0.810442, 0.5229, 0.342964, 1)
+tint = Color(0.929412, 0.831373, 0.764706, 1)
 
 [node name="Dangerzone" parent="." instance=ExtResource("3_aerfg")]
 position = Vector2(3072, 1216)
